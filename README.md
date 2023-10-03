@@ -6,7 +6,7 @@ Fetch Via: https://bins.su
 
 Test Bot: [Cyber Bin Checker Bot](https://telegram.me/cyberbincheckbot)
 ## Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anonymouscoderboy/php-bin-checker)
 
 After Deploying App on Heroku - Setup Webhook
 
